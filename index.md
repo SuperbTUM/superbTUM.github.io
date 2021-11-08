@@ -1,1 +1,1 @@
-Hi all. I am Mingzhe Hu, a master's student in the Electrical Engineering department at Columbia. My research interest is deep learning. I am seeking for 2022 machine learning related summer internship in US. Please take a look at my Resume and wish you have a nice day!
+Hi all. I am Mingzhe Hu, a master's student in the Electrical Engineering department at Columbia. My research interest is deep learning. I am seeking for 2022 machine learning related summer internship in US. Please take a look at my [Resume](superbtum.github.io/resume/) and wish you have a nice day!
