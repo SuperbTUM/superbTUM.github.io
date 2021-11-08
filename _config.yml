@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+description: personal website
+url: "https://superbtum.github.io"
+markdown: kramdown
+highlighter: rouge
