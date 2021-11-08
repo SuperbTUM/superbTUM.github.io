@@ -8,10 +8,6 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-  
-avatar: "/images/campus_morningside.jpg"
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
 
 social-network-links:
   email: "mingzhe.hu@columbia.edu"
