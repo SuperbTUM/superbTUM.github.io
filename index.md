@@ -1,3 +1,5 @@
 ## Welcome to MingzheHu's Homepage!
 
-[Resume](superbtum.github.io/resume)
+layout: page
+title: "resume"
+permalink: superbtum.github.io/resume
