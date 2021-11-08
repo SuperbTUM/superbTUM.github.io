@@ -1,6 +1,6 @@
 # Mingzhe Hu
 
-## Introduction
+## Brief Introduction
 
 Hi all. I am Mingzhe Hu, a master's student in the Electrical Engineering department at Columbia. My research interest is deep learning and mobile neural network. I am seeking for 2022 machine learning related summer internship in US. Please take a look at my [Resume](resume/Resume-MingzheHu.pdf) and wish you have a nice day!
 
@@ -26,28 +26,41 @@ Recent presentation papers/slides:
 
 ## Courses
 
-Undergraduate in [SEU](https://www.seu.edu.cn/english/) -->
+* Undergraduate in [SEU](https://www.seu.edu.cn/english/) -->
 
-Most of the core courses were taken in my sophomore or junior year.
+  Most of the core courses were taken in my sophomore or junior year.
 
-Computer Network, Computer Architecture, Fundamentals of Database, Fundamentals of Computer Vision, Audio Signal Processing
+  * Computer Network
+  * Computer Architecture with VHDL
+  * Fundamentals of Database with SQL
+  * Fundamentals of Computer Vision with Halcon
+  * Audio Signal Processing with Matlab
+  * Statistical Signal Processing with Matlab
 
-Undergraduate in [TUM](https://www.tum.de/en/) -->
+* Undergraduate in [TUM](https://www.tum.de/en/) -->
 
-Senior year.
+  Senior year as exchange student.
 
-Seminar in Deep Computer Graphics, Deep Compter Vision Lab, VLSI Design
+  * Seminar in Deep Computer Graphics: Literature Overview of a 19's Conference Paper
+  * Deep Compter Vision Lab: Optimization of DeepSort Tracker
+  * VLSI Design: Design of a MP3 player with Vivado and ModelSim
 
-Graudate in Columbia -->
+* Graudate in Columbia -->
 
-Machine Learning, [Neural Network and Deep Learning](https://www.cs.columbia.edu/~zemel/Class/Nndl/index.html#about), Heterogeneous Computing, [Big Data Analysis](https://www.ee.columbia.edu/~cylin/course/bigdata/)
+  21 Fall
+  * Machine Learning in Signal, Information and Data
+  * [Neural Network and Deep Learning](https://www.cs.columbia.edu/~zemel/Class/Nndl/index.html#about)
+  * Heterogeneous Computing
+  * [Big Data Analysis](https://www.ee.columbia.edu/~cylin/course/bigdata/)
 
-Plan in next semester
+  Plan in 22 Spring
+  * Self-supervised Learning
+  * Computer Vision II in Learning
+  * Reinforcement Learning in Information System
+  * Programming Language and Translator
 
-Self-supervised Learning, Computer Vision II in Learning, Reinforcement Learning in Information System, Programming Language and Translator
+## Contact Information
 
-## Contact
-
-E-mail: mingzhe.hu@columbia.edu
+[E-mail](mingzhe.hu@columbia.edu)
 
 [Linkedin](linkedin.com/in/humingzhe)
