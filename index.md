@@ -2,11 +2,11 @@
 
 ## Brief Introduction
 
-Hi all. I am Mingzhe Hu, a master's student in the Electrical Engineering department at Columbia. My research interest is deep learning and mobile neural network. I am seeking for 2022 machine learning related summer internship in US. Please take a look at my [Resume](resume/Resume-MingzheHu.pdf) and wish you have a nice day!
+Hi all. I am Mingzhe Hu, a master's student in the Electrical Engineering department at Columbia. My research interest is deep learning and mobile neural network. I am seeking for 2022 machine learning related summer internship in US. Please take a look at my [Resume](resume/Resume-MingzheHu.pdf) and thank you for your time and consideration!
 
 Here I am in New York City! 
 
-<img src="/images/campus_morningside.jpg"/>
+<img src="/images/campus_morningside.jpg" width="100%"/>
 
 ## Currently Enrolled
 
@@ -14,9 +14,9 @@ Here I am in New York City!
 
 ## Projects
 
-Projects cover a wide range in the realm of EE and CS, and you can know the details through [github](github.com/SuperbTUM) and resume.
+Projects cover a wide range of topics in the realm of EE and CS, which you can get access to the details through [github](github.com/SuperbTUM) and my resume.
 
-Recent presentation papers/slides:
+Recent presentation slides/papers:
 
 1. A full stack demo in streaming data prediction with web scrawler, pySpark and Google Cloud Platform [link](https://docs.google.com/presentation/d/1Z19LWKy4PkVge7mB5zURUzqxqkKuiktVk-0JGNwgbD8/edit?usp=sharing)
 
@@ -26,7 +26,7 @@ Recent presentation papers/slides:
 
 ## Courses
 
-* Undergraduate in [SEU](https://www.seu.edu.cn/english/) -->
+* Undergraduate level in [SEU](https://www.seu.edu.cn/english/) -->
 
   Most of the core courses were taken in my sophomore or junior year.
 
@@ -37,7 +37,7 @@ Recent presentation papers/slides:
   * Audio Signal Processing with Matlab
   * Statistical Signal Processing with Matlab
 
-* Undergraduate in [TUM](https://www.tum.de/en/) -->
+* Graduate level in [TUM](https://www.tum.de/en/) -->
 
   Senior year as exchange student.
 
@@ -45,13 +45,13 @@ Recent presentation papers/slides:
   * Deep Compter Vision Lab: Optimization of DeepSort Tracker
   * VLSI Design: Design of a MP3 player with Vivado and ModelSim
 
-* Graudate in Columbia -->
+* Graudate level in [Columbia](https://www.columbia.edu/) -->
 
   21 Fall
   * Machine Learning in Signal, Information and Data
   * [Neural Network and Deep Learning](https://www.cs.columbia.edu/~zemel/Class/Nndl/index.html#about)
-  * Heterogeneous Computing
-  * [Big Data Analysis](https://www.ee.columbia.edu/~cylin/course/bigdata/)
+  * Heterogeneous Computing with PyCUDA and PyOpenCL
+  * [TPC in Big Data Analysis](https://www.ee.columbia.edu/~cylin/course/bigdata/)
 
   Plan in 22 Spring
   * Self-supervised Learning
