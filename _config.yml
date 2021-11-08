@@ -15,15 +15,6 @@ round-avatar: true
 
 social-network-links:
   email: "mingzhe.hu@columbia.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: SuperbTUM
 
-rss-description: MingzheHu personal website
 
-url-pretty: "https://superbtum.github.io"
-
-post_search: true
-      
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
