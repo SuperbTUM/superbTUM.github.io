@@ -1,3 +1,9 @@
+---
+title: "Literature Review of Deepsort, 2017"
+permalink: /DEEPSORT_REVIEW/
+layout: page
+---
+
 # Re-identification problem in pedestrian tracking with Siamese Network and semi-supervised learning
 
 
