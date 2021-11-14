@@ -1,4 +1,6 @@
-# Mingzhe Hu
+---
+layout: page
+---
 
 ## Brief Introduction
 
