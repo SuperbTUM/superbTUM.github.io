@@ -25,8 +25,8 @@ Recent presentation slides/papers:
 3. [Literature Review of ERNIE, Baidu](https://drive.google.com/file/d/1ZLE1TlD5xZhPABDJt77vVYCX_47KXpRC/view?usp=sharing)
 
 ## Courses
-
-* *Undergraduate level in [SEU](https://www.seu.edu.cn/english/)*
+----------
+* **Undergraduate level in [SEU](https://www.seu.edu.cn/english/)**
 
   Most of the core courses were taken in my sophomore or junior year.
 
@@ -37,8 +37,8 @@ Recent presentation slides/papers:
   * Audio Signal Processing with Matlab
   * Statistical Signal Processing with Matlab
 
-
-* *Graduate level in [TUM](https://www.tum.de/en/)*
+----------
+* **Graduate level in [TUM](https://www.tum.de/en/)**
 
   Senior year as an exchange student.
 
@@ -46,14 +46,15 @@ Recent presentation slides/papers:
   * Deep Compter Vision Lab: Optimization of [DeepSort](https://arxiv.org/pdf/1703.07402.pdf) Tracker
   * VLSI Design: Design of a MP3 player with Vivado and ModelSim
 
-
-* *Graduate level in [Columbia](https://www.columbia.edu/)*
+----------
+* **Graduate level in [Columbia](https://www.columbia.edu/)**
 
   21 Fall
-  * Machine Learning in Signal, Information and Data
-  * [Neural Network and Deep Learning](https://www.cs.columbia.edu/~zemel/Class/Nndl/index.html#about)
-  * Heterogeneous Computing with PyCUDA and PyOpenCL
-  * [TPC in Big Data Analysis](https://www.ee.columbia.edu/~cylin/course/bigdata/)
+  * \[ELEN 4720\] Machine Learning in Signal, Information and Data
+  * \[COMS 4995\] [Neural Network and Deep Learning](https://www.cs.columbia.edu/~zemel/Class/Nndl/index.html#about)
+  * \[EECS 4750\] Heterogeneous Computing with PyCUDA and PyOpenCL
+  * \[EECS 6893\] [TPC in Big Data Analysis](https://www.ee.columbia.edu/~cylin/course/bigdata/)
+  * \[COMS 4705\] Auditor of [Natural Language Processing](http://www.cs.columbia.edu/~kathy/NLP/2021Fall/)
 
   Plan in the upcoming 22 Spring
   * Self-supervised Learning
@@ -63,6 +64,6 @@ Recent presentation slides/papers:
 
 ## Contact Information
 
-[E-mail](mingzhe.hu@columbia.edu)
+E-mail: [E-mail](mingzhe.hu@columbia.edu)
 
-[Linkedin](linkedin.com/in/humingzhe)
+Personal Networking Homepage: [Linkedin](linkedin.com/in/humingzhe)
