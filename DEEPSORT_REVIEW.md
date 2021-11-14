@@ -2,7 +2,7 @@
 title: "Literature Review of Deepsort, 2017"
 permalink: /DEEPSORT_REVIEW/
 layout: page
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 ---
 
 # Re-identification problem in pedestrian tracking with Siamese Network and semi-supervised learning
