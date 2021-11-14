@@ -2,6 +2,8 @@
 layout: page
 ---
 
+# Mingzhe Hu
+
 ## Brief Introduction
 
 Hi all. I am Mingzhe Hu, a master's student in the Electrical Engineering department at Columbia. My research interest is deep learning and mobile neural network. I am seeking for **2022 machine learning related summer internship in US**. Please take a look at my [Resume](resume/Resume-MingzheHu.pdf) and thank you for your time and consideration!
