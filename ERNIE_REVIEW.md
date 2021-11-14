@@ -2,7 +2,7 @@
 title: "Literature Review of ERNIE 2.0, Baidu, 2020"
 permalink: /ERNIE_REVIEW/
 layout: page
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 ---
 
 # Literature Review of ERNIE 2.0
