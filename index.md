@@ -18,7 +18,7 @@ Here I am in New York City!
 
 ## Projects
 
-Projects cover a wide range of topics in the realm of EE and CS, where you can get access to the details through [github](github.com/SuperbTUM) as well as my resume.
+Projects cover a wide range of topics in the realm of EE and CS, where you can get access to the details through [github](https://github.com/SuperbTUM) as well as my resume.
 
 Ongoing slides/papers:
 
