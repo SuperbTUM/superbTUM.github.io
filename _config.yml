@@ -4,7 +4,11 @@ description: Keep Moving ...
 url: "https://superbtum.github.io"
 markdown: kramdown
 highlighter: rouge
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: false
 
-
-
-
+plugins:
+  - jekyll-titles-from-headings
+ 
