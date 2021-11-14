@@ -16,13 +16,14 @@ Here I am in New York City!
 
 Projects cover a wide range of topics in the realm of EE and CS, which you can get access to the details through [github](github.com/SuperbTUM) and my resume.
 
-Recent presentation slides/papers:
+Ongoing slides/papers:
 
 1. [A full stack demo in streaming data prediction with web scrawler, pySpark and Google Cloud Platform](https://docs.google.com/presentation/d/1Z19LWKy4PkVge7mB5zURUzqxqkKuiktVk-0JGNwgbD8/edit?usp=sharing)
 
 2. [Heterogeneous Computing in GloVe representation with neural network](https://docs.google.com/presentation/d/1O1OfZFtbv_Yf7mYS98BySh2fRVDv_ueD/edit?usp=sharing&ouid=102776209288098897046&rtpof=true&sd=true)
 
 3. [Literature Review of ERNIE 2.0, Baidu, 2020](/ERNIE_REVIEW/)
+
 4. [Literature Review of DeepSort, 2018](/DEEPSORT_REVIEW/)
 
 ## Courses
