@@ -22,7 +22,8 @@ Recent presentation slides/papers:
 
 2. [Heterogeneous Computing in GloVe representation with neural network](https://docs.google.com/presentation/d/1O1OfZFtbv_Yf7mYS98BySh2fRVDv_ueD/edit?usp=sharing&ouid=102776209288098897046&rtpof=true&sd=true)
 
-3. [Literature Review of ERNIE, Baidu](https://drive.google.com/file/d/1ZLE1TlD5xZhPABDJt77vVYCX_47KXpRC/view?usp=sharing)
+3. [Literature Review of ERNIE 2.0, Baidu, 2020](/ERNIE_REVIEW/)
+4. [Literature Review of DeepSort, 2018](/DEEPSORT_REVIEW/)
 
 ## Courses
 ----------
