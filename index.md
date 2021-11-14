@@ -18,7 +18,7 @@ Here I am in New York City!
 
 ## Projects
 
-Projects cover a wide range of topics in the realm of EE and CS, which you can get access to the details through [github](github.com/SuperbTUM) and my resume.
+Projects cover a wide range of topics in the realm of EE and CS, where you can get access to the details through [github](github.com/SuperbTUM) as well as my resume.
 
 Ongoing slides/papers:
 
@@ -58,7 +58,7 @@ Ongoing slides/papers:
   21 Fall
   * \[ELEN 4720\] Machine Learning in Signal, Information and Data
   * \[COMS 4995\] [Neural Network and Deep Learning](https://www.cs.columbia.edu/~zemel/Class/Nndl/index.html#about)
-  * \[EECS 4750\] Heterogeneous Computing with PyCUDA and PyOpenCL
+  * \[EECS 4750\] [Heterogeneous Computing with PyCUDA and PyOpenCL](https://www.aidl.ee.columbia.edu/documents/sigproccommonmmulticore)
   * \[EECS 6893\] [TPC in Big Data Analysis](https://www.ee.columbia.edu/~cylin/course/bigdata/)
   * \[COMS 4705\] Auditor of [Natural Language Processing](http://www.cs.columbia.edu/~kathy/NLP/2021Fall/)
 
@@ -72,4 +72,4 @@ Ongoing slides/papers:
 
 E-mail: [E-mail](mingzhe.hu@columbia.edu)
 
-Personal Networking Homepage: [Linkedin](linkedin.com/in/humingzhe)
+Personal Networking Homepage: [Linkedin](https://www.linkedin.com/in/humingzhe)
