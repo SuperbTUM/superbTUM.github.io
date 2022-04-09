@@ -12,3 +12,35 @@ titles_from_headings:
 plugins:
   - jekyll-titles-from-headings
  
+sidebar:
+  # Sidebar Position.
+  # position: left
+  position: right
+  
+avatar:
+  # Replace the default image and set the url here.
+  url: /images/humingzhe.jpg
+  # If true, the avatar would be dispalyed in circle.
+  rounded: false
+  # If true, the avatar would be rotated with the cursor.
+  rotated: false
+
+back2top:
+  enable: true
+  # Back to top in sidebar.
+  sidebar: true
+  # Scroll percent label in b2t button.
+  scrollpercent: true
+
+# Table of Contents in the Sidebar
+# Front-matter variable (unsupport wrap expand_all).
+toc:
+  enable: true                                  # 是否开启目录
+  # Automatically add list number to toc.
+  number: true                                  # 自动增加列表数，比如`1.1 1.2 1.3`
+  # If true, all words will placed on next lines if header width longer then sidebar width.
+  wrap: false                                   # 标题内容大于侧边栏宽，是否再下一行显示
+  # If true, all level of TOC in a post will be displayed, rather than the activated part of it.
+  expand_all: false                             # 是否自动扩展所有列表，而不是仅扩展当前二级标题下的列表
+  # Maximum heading depth of generated toc.
+  max_depth: 6
