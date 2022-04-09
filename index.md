@@ -4,7 +4,7 @@ layout: page
 
 ## Brief Self-introduction
 
-Hi all. I am Mingzhe Hu, a master's student in the Electrical Engineering department at Columbia. My research interest is deep learning and mobile neural network. I am seeking for **2022 software related summer internship in US**. Please take a look at my [Resume](resume/Resume-MingzheHu.pdf) and thank you for your time and consideration!
+Dear all. I am Mingzhe Hu, a master's student in the Electrical Engineering department at Columbia. My research interest is deep learning and computer vision. I am an incoming software summer intern at NVIDIA and I will start remotely in May!
 
 Here I am in Manhatton, New York City! 
 
@@ -12,13 +12,13 @@ Here I am in Manhatton, New York City!
 
 ## Currently Enrolled
 
-[Megvii workshop in CVPR/ICCV paper re-implementation challenge with MegStudio](https://megengine.org.cn/community/2021PaperReproducibilityChallenge/)
+[Stella Kaggle Challenge](https://stellar.org/uei-news/72-hour-stellar-kaggle-competition-at-columbia-university)
 
 ## Projects
 
-Projects cover a wide range of topics in the realm of EE and CS, where you can get access to the details through [github](https://github.com/SuperbTUM) as well as my resume.
+Projects cover a wide range of topics, where you can get access to the details through [github](https://github.com/SuperbTUM) as well as my resume.
 
-Ongoing slides/papers:
+Slides/papers:
 
 1. [A full stack demo in streaming data prediction with web scrawler, pySpark and Google Cloud Platform](https://docs.google.com/presentation/d/13mienC6CdovLCiz5X3YifuTIh2iMlll-rL-71KL4bII/edit?usp=sharing)
 
@@ -60,9 +60,8 @@ Ongoing slides/papers:
   * \[EECS 6893\] [TPC in Big Data Analysis](https://www.ee.columbia.edu/~cylin/course/bigdata/)
   * \[COMS 4705\] Auditor of [Natural Language Processing](http://www.cs.columbia.edu/~kathy/NLP/2021Fall/)
 
-  Plan in the upcoming 22 Spring
-  * Self-supervised Learning
-  * Computer Vision II in Learning
+  22 Spring
+  * Large Scale Stream Processing
   * Reinforcement Learning in Information System
   * Deep Learning System Performance
 
