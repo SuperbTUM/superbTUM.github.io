@@ -1,9 +1,9 @@
 remote_theme: just-the-docs/just-the-docs
-title: null
+title: false
 url: "https://superbtum.github.io"
 title-heading: false
 
-logo: "/images/humingzhe.JPG"
+logo: "/images/humingzhe.jpg"
 
 markdown: Kramdown
 permalink: pretty
