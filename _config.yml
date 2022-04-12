@@ -4,7 +4,7 @@ title: null
 url: "https://superbtum.github.io"
 title-heading: false
 
-# logo: "/images/humingzhe.jpg"
+logo: "/images/columbia_logo_1.png"
 
 markdown: Kramdown
 permalink: pretty
@@ -15,7 +15,6 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 defaults:
   - scope: 
       path: ""
-      type: posts
     values: 
       author_profile: true
 
@@ -24,6 +23,21 @@ author:
   avatar: "/images/humingzhe.jpg"
   bio: "Columbia x Nvidia" # Note: Markdown is allowed
   location: "New York"
+
+docs:
+  - title: Home
+    children:
+      - title: "Brief Self Intro"
+        url: /#brief-self-introduction
+      - title: "Currently Enrolled"
+        url: /#currently-enrolled
+      - title: "Projects"
+        url: /#projects
+      - title: "Courses"
+        url: /#courses
+      - title: "Contact Info"
+        url: /#contact-information
+
 
 # Regression tests
 # By default, the pages in /docs/tests are excluded when the ste is built.
