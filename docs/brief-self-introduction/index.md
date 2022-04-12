@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: doc
 title: Self Intro
 nav_order: 1
 permalink: /docs/brief-self-introduction/
