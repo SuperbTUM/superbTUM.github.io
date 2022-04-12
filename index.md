@@ -4,6 +4,7 @@ title: Recent News
 nav_order: 1
 permalink: /
 nav_exclude: true
+has_toc: false
 ---
 
 ## Recent News
