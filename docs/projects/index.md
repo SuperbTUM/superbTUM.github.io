@@ -1,11 +1,13 @@
 ---
 layout: default
 title: Projects
-nav_order: 1
+nav_order: 3
 permalink: /docs/projects/
 ---
 
 ## Projects
+
+----------
 
 Projects cover a wide range of topics, where you can get access to the details through [github](https://github.com/SuperbTUM) as well as my resume.
 
