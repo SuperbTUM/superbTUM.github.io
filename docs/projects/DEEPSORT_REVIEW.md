@@ -1,7 +1,7 @@
 ---
 title: "Literature Review of Deepsort, 2017"
 permalink: /DEEPSORT_REVIEW/
-layout: page
+layout: default
 theme: jekyll-theme-architect
 ---
 
