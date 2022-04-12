@@ -1,11 +1,13 @@
 ---
 layout: default
 title: Recent News
-nav_order: 1
+nav_order: 0
 permalink: /
 ---
 
 ## Recent News
+
+----------
 
 Update Apr. 4th: I have accepted software summer intern offer from Metropolis, Nvidia!
 
