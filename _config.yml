@@ -29,10 +29,10 @@ defaults:
       author_profile: true
 
 author:
-  name: Mingzhe Hu
-  avatar: /images/humingzhe.jpg
-  bio: Columbia x Nvidia # Note: Markdown is allowed
-  location: New York
+  name: "Mingzhe Hu"
+  avatar: "/images/humingzhe.jpg"
+  bio: "Columbia x Nvidia" # Note: Markdown is allowed
+  location: "New York City"
 
 docs:
   - title: Home
