@@ -2,12 +2,6 @@ remote_theme: just-the-docs/just-the-docs
 title: Mingzhe(Ming) Hu
 baseurl: "/mainpage"
 url: "https://superbtum.github.io"
-markdown: kramdown
-highlighter: rouge
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: false
 
 search_enabled: true
 search:
