@@ -36,30 +36,90 @@ search:
 
 logo: "/images/humingzhe.jpg"
 
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
+, "docs/tests/"
+]
+
+# Regression tests
+# By default, the pages in /docs/tests are excluded when the ste is built.
+# To include them, comment-out the relevant line above.
+# Uncommenting the following line doesn't work - see https://github.com/jekyll/jekyll/issues/4791
+# include: ["docs/tests/"]
+
+# Set a path/url to a logo that will be displayed instead of the title
+#logo: "/assets/images/just-the-docs.png"
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 2
+  # Maximum amount of previews per search result
+  # Default: 3
+  previews: 2
+  # Maximum amount of words to display before a matched word in the preview
+  # Default: 5
+  preview_words_before: 3
+  # Maximum amount of words to display after a matched word in the preview
+  # Default: 10
+  preview_words_after: 3
+  # Set the search token separator
+  # Default: /[\s\-/]+/
+  # Example: enable support for hyphenated search words
+  tokenizer_separator: /[\s/]+/
+  # Display the relative url in search results
+  # Supports true (default) or false
+  rel_url: true
+  # Enable or disable the search button that appears in the bottom right corner of every page
+  # Supports true or false (default)
+  button: false
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Sort order for navigation links
+# nav_sort: case_insensitive # default, equivalent to nil
+nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2022 Mingzhe Hu. Distributed by an <a href=\"https://github.com/SuperbTUM/superbTUM.github.io/tree/main/LICENSE.txt\">MIT license.</a>"
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+
+# Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
+color_scheme: nil
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking: G-0XKWX0K0W7
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
 plugins:
-  - jekyll-titles-from-headings
- 
-sidebar:
-  # Sidebar Position.
-  # position: left
-  position: right
+  - jekyll-seo-tag
 
-back2top:
-  enable: true
-  # Back to top in sidebar.
-  sidebar: true
-  # Scroll percent label in b2t button.
-  scrollpercent: true
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
-# Table of Contents in the Sidebar
-# Front-matter variable (unsupport wrap expand_all).
-toc:
-  enable: true                                  # 是否开启目录
-  # Automatically add list number to toc.
-  number: true                                  # 自动增加列表数，比如`1.1 1.2 1.3`
-  # If true, all words will placed on next lines if header width longer then sidebar width.
-  wrap: false                                   # 标题内容大于侧边栏宽，是否再下一行显示
-  # If true, all level of TOC in a post will be displayed, rather than the activated part of it.
-  expand_all: false                             # 是否自动扩展所有列表，而不是仅扩展当前二级标题下的列表
-  # Maximum heading depth of generated toc.
-  max_depth: 6
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  # ignore:
+  #   envs: all
