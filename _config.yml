@@ -1,6 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
 title: Mingzhe(Ming) Hu
 url: "https://superbtum.github.io"
+title-heading: false
 
 logo: "/images/humingzhe.jpg"
 
