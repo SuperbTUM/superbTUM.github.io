@@ -16,8 +16,8 @@ defaults:
   - scope: 
       path: ""
       type: posts
-  values: 
-    author_profile: true
+    values: 
+      author_profile: true
 
 author:
   name: "Mingzhe Hu"
