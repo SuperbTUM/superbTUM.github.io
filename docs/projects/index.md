@@ -3,6 +3,8 @@ layout: default
 title: Projects
 nav_order: 3
 permalink: /docs/projects/
+parent: Home
+has_toc: false
 ---
 
 ## Projects

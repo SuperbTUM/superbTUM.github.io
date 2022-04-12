@@ -3,12 +3,13 @@ layout: default
 title: Home
 nav_order: 1
 permalink: /
+has_children: true
 ---
 
 ## Recent News
 
 ----------
 
-Update Apr. 4th: I have accepted software summer intern offer from Metropolis, Nvidia!
+Update Apr. 4th: I had accepted software summer intern offer from Metropolis, Nvidia!
 
-Update Mar. 31st: I published a blog on [Medium](https://medium.com/@mh4116_43123/a-milestone-in-object-detection-with-transformers-f2fd8a30cc32).
+Update Mar. 31st: I published a technical blog on [Medium](https://medium.com/@mh4116_43123/a-milestone-in-object-detection-with-transformers-f2fd8a30cc32).

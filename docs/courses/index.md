@@ -3,6 +3,7 @@ layout: default
 title: Courses
 nav_order: 4
 permalink: /docs/courses/
+parent: Home
 ---
 
 ## Courses

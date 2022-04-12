@@ -3,6 +3,7 @@ layout: default
 title: Currently Enrolled
 nav_order: 2
 permalink: /docs/currently-enrolled
+parent: Home
 ---
 
 ## Currently Enrolled

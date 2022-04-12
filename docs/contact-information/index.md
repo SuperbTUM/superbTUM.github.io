@@ -3,6 +3,7 @@ layout: default
 title: Contact
 nav_order: 5
 permalink: /docs/contact-information/
+parent: Home
 ---
 
 ## Contact Information
