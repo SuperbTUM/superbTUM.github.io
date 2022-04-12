@@ -1,5 +1,8 @@
 ---
-layout: page
+layout: default
+title: Home
+nav_order: 1
+permalink: /
 ---
 
 ## Brief Self-introduction
@@ -12,7 +15,7 @@ Here I am in Manhatton, New York City!
 
 ## Currently Enrolled
 
-[Stella Kaggle Challenge](https://stellar.org/uei-news/72-hour-stellar-kaggle-competition-at-columbia-university)
+[Stellar Kaggle Challenge](https://stellar.org/uei-news/72-hour-stellar-kaggle-competition-at-columbia-university)
 
 ## Projects
 
@@ -26,7 +29,7 @@ Slides/papers:
 
 3. [Literature Review of ERNIE 2.0, Baidu, 2020](/ERNIE_REVIEW/)
 
-4. [Literature Review of DeepSort, 2018](/DEEPSORT_REVIEW/)
+4. [Literature Review of DeepSort, 2017](/DEEPSORT_REVIEW/)
 
 ## Courses
 ----------
