@@ -2,15 +2,15 @@ docs:
   - title: Home
     children:
       - title: "Brief Self Intro"
-        url: /docs/brief-self-introduction/
+        url: ../docs/brief-self-introduction/
       - title: "Currently Enrolled"
-        url: /docs/currently-enrolled/
+        url: ../docs/currently-enrolled/
       - title: "Projects"
-        url: /docs/projects/
+        url: ../docs/projects/
       - title: "Courses"
-        url: /docs/courses/
+        url: ../docs/courses/
       - title: "Contact Info"
-        url: /docs/contact-information/
+        url: ../docs/contact-information/
   
 sidebar:
   nav: "docs"
