@@ -15,7 +15,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 defaults:
   - scope: 
       path: ""
-      type: default
+      type: pages
     values: 
       author_profile: true
 
