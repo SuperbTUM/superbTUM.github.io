@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: Self Intro
 nav_order: 1
-permalink: /
+permalink: /docs/brief-self-introduction/
 ---
 
 ## Brief Self-introduction
