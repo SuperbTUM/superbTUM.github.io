@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Recent News
+title: Home
 nav_order: 1
 permalink: /
-nav_exclude: true
-has_toc: false
 ---
 
 ## Recent News
