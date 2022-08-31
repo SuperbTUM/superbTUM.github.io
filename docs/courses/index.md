@@ -39,6 +39,6 @@ parent: Home
   * \[COMS 4705\] Auditor of [Natural Language Processing](http://www.cs.columbia.edu/~kathy/NLP/2021Fall/)
 
   22 Spring
-  * Large Scale Stream Processing
-  * Reinforcement Learning in Information System
-  * Deep Learning System Performance
+  * \[ELEN 6889\] Large Scale Stream Processing
+  * \[EECS 6892\] Reinforcement Learning in Information System
+  * \[COMS 6998\] Deep Learning System Performance
