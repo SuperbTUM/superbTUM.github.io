@@ -11,14 +11,23 @@ has_toc: false
 
 ----------
 
-Projects cover a wide range of topics, where you can get access to the details through [github](https://github.com/SuperbTUM) as well as my resume.
+Projects cover a wide range of topics, where you can get access to the details through [GitHub](https://github.com/SuperbTUM) as well as my resume.
 
-Slides/papers:
+Projects:
 
-1. [A full stack demo in streaming data prediction with web scrawler, pySpark and Google Cloud Platform](https://docs.google.com/presentation/d/13mienC6CdovLCiz5X3YifuTIh2iMlll-rL-71KL4bII/edit?usp=sharing)
+* Strong Reinforcement Baseline on Atari Skiing w/. Immitation Learning
+* Real-time Self-supervised Re-identification Algorithm
+* Real-time Single Camera Re-identification w/. Deep Convolutional GAN
+* New York Traffic Heatmap w/. Google API and Spark Streaming
+* Transformer Full Quantization for Text Classification Task
+* ...
 
-2. [Heterogeneous Computing in GloVe representation with neural network](https://docs.google.com/presentation/d/1yiWv__bui-3LiHRcHsZYQ6XAz5WzdlWg/edit?usp=sharing&ouid=102776209288098897046&rtpof=true&sd=true)
+Open-Sourced Slides/Reviews:
 
-3. [Literature Review of ERNIE 2.0, Baidu, 2020](/ERNIE_REVIEW/)
+* [A full stack demo in streaming data prediction with web scrawler, pySpark and Google Cloud Platform](https://docs.google.com/presentation/d/13mienC6CdovLCiz5X3YifuTIh2iMlll-rL-71KL4bII/edit?usp=sharing)
 
-4. [Literature Review of DeepSort, 2017](/DEEPSORT_REVIEW/)
+* [Heterogeneous Computing in GloVe representation with neural network](https://docs.google.com/presentation/d/1yiWv__bui-3LiHRcHsZYQ6XAz5WzdlWg/edit?usp=sharing&ouid=102776209288098897046&rtpof=true&sd=true)
+
+* [Literature Review of ERNIE 2.0, Baidu, 2020](/ERNIE_REVIEW/)
+
+* [Literature Review of DeepSort, 2017](/DEEPSORT_REVIEW/)
