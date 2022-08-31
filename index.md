@@ -9,6 +9,7 @@ has_children: true
 ## Recent News
 
 ----------
+**Update Aug. 29th**: I had completed my internship exit talk and my bag of tricks (BoT) for multi-target multi-camera (MTMC) people warehouse tracking can improve IDF1 from 40% to 81%+!
 
 **Update Apr. 4th**: I had accepted software summer intern offer from [Metropolis, NVIDIA](https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/) and am expected to start in late May!
 
