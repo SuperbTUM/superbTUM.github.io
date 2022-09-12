@@ -11,7 +11,7 @@ has_toc: false
 
 ----------
 
-Projects cover a wide range of topics, where you can get access to the details through [GitHub](https://github.com/SuperbTUM) as well as my resume.
+Projects cover a wide range of topics, where you can get access to the details through [GitHub](https://github.com/SuperbTUM) as well as my [resume](https://github.com/SuperbTUM/superbTUM.github.io/blob/main/resume/Hu_Mingzhe_mh4116_MSEE.pdf).
 
 Projects:
 
@@ -24,9 +24,11 @@ Projects:
 
 Open-Sourced Slides/Reviews:
 
-* [A full stack demo in streaming data prediction with web scrawler, pySpark and Google Cloud Platform](https://docs.google.com/presentation/d/13mienC6CdovLCiz5X3YifuTIh2iMlll-rL-71KL4bII/edit?usp=sharing)
+* [A full stack demo in streaming data prediction w/. web scrawler, PySpark and Google Cloud Platform](https://docs.google.com/presentation/d/13mienC6CdovLCiz5X3YifuTIh2iMlll-rL-71KL4bII/edit?usp=sharing)
 
-* [Heterogeneous Computing in GloVe representation with neural network](https://docs.google.com/presentation/d/1yiWv__bui-3LiHRcHsZYQ6XAz5WzdlWg/edit?usp=sharing&ouid=102776209288098897046&rtpof=true&sd=true)
+* [Heterogeneous computing in GloVe representation with neural network](https://docs.google.com/presentation/d/1yiWv__bui-3LiHRcHsZYQ6XAz5WzdlWg/edit?usp=sharing&ouid=102776209288098897046&rtpof=true&sd=true)
+
+* [CNN Quantization and Binarization w/. Sparsebits](https://docs.google.com/presentation/d/1pt1NvVpS13oXeYGAcI1VcSAhZLgxCaRYo4LlK2eWhZs/edit?usp=sharing)
 
 * [Literature Review of ERNIE 2.0, Baidu, 2020](/ERNIE_REVIEW/)
 
