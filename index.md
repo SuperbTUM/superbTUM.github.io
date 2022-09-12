@@ -9,9 +9,13 @@ has_children: true
 ## Recent News
 
 ----------
+**Update Sep. 12th**: I accepted part-time software internship offer from [AIModelShare Initiative](https://iserp.columbia.edu/center/ai-model-share-project) developed by ISERP, Columbia University and am expected to focus on deep learning library infrastructure.
+
+**Update Sep. 6th**: I was elected as a teaching assistant of [COMS 4995](https://www.deeplearningforcomputervision.com/) in Deep Learning for Computer Vision at Columbia University. 
+
 **Update Aug. 29th**: I had completed my internship exit talk and my bag of tricks (BoT) for multi-target multi-camera (MTMC) people warehouse tracking can improve IDF1 from 40% to 81%+!
 
-**Update Apr. 4th**: I had accepted software summer intern offer from [Metropolis, NVIDIA](https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/) and am expected to start in late May!
+**Update Apr. 4th**: I accepted software summer internship offer from [Metropolis, NVIDIA](https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/) and am expected to start in late May!
 
 **Update Mar. 31st**: I published a technical blog of object detection with transformer on [Medium](https://medium.com/@mh4116_43123/a-milestone-in-object-detection-with-transformers-f2fd8a30cc32).
 
