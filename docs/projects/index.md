@@ -11,7 +11,7 @@ has_toc: false
 
 ----------
 
-Projects cover a wide range of topics, where you can get access to the details through [GitHub](https://github.com/SuperbTUM) as well as my [resume](https://github.com/SuperbTUM/superbTUM.github.io/blob/main/resume/Hu_Mingzhe_mh4116_MSEE.pdf).
+Projects cover a wide range of topics, where you can get access to the details through [GitHub](https://github.com/SuperbTUM) as well as my [resume](https://superbTUM.github.io/resume).
 
 Projects:
 
