@@ -11,7 +11,7 @@ parent: Home
 ----------
 **Current**
 
-* [Columbia GSAS in electrical & computer engineering](https://www.ee.columbia.edu/)
+* M.S. candidate @ [Columbia GSAS in electrical & computer engineering](https://www.ee.columbia.edu/)
 * Prospective contributor of [AIModelShare platform](https://www.modelshare.org/)
 * [Avalon](https://en.wikipedia.org/wiki/The_Resistance_(game)) enthusiast but alleviated by job-hunting... 
 
