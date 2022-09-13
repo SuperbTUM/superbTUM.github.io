@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Past Experience
 nav_order: 3
 permalink: /docs/projects/
 parent: Home
