@@ -39,9 +39,9 @@ docs:
     children:
       - title: "Brief Self Intro"
         url: /#brief-self-introduction
-      - title: "Currently Enrolled"
+      - title: "Roles"
         url: /#currently-enrolled
-      - title: "Projects"
+      - title: "Past Experience"
         url: /#projects
       - title: "Courses"
         url: /#courses
