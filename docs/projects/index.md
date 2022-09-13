@@ -18,8 +18,8 @@ Projects cover a wide range of topics, where you can get access to the details t
 
 * Strong Reinforcement Baseline on Atari Skiing w/. Immitation Learning
 * Real-time Self-supervised Re-identification Algorithm and BoT
-* Real-time Single Camera Re-identification w/. Deep Convolutional GAN
-* New York Traffic Heatmap w/. Google API and Spark Streaming
+* Real-time Single Camera Re-identification w/. Deep Convolutional GAN and BoT
+* New York Traffic Heatmap w/. Google API, Tomtom Traffic and Spark Streaming
 * Transformer Full Quantization for Text Classification Task
 * ...
 
@@ -32,7 +32,7 @@ Projects cover a wide range of topics, where you can get access to the details t
   * Tools/Platforms: Web Scrawler, PySpark, Big Query, Front-end Developing Package, Google Cloud Platform
   * [Archive Page](https://www.ee.columbia.edu/~cylin/course/bigdata/projects/)
 
-* [Heterogeneous computing in GloVe representation](https://docs.google.com/presentation/d/1yiWv__bui-3LiHRcHsZYQ6XAz5WzdlWg/edit?usp=sharing&ouid=102776209288098897046&rtpof=true&sd=true)
+* [Acceleration of GloVe Representation w/. Heterogeneous Computing](https://docs.google.com/presentation/d/1yiWv__bui-3LiHRcHsZYQ6XAz5WzdlWg/edit?usp=sharing&ouid=102776209288098897046&rtpof=true&sd=true)
   * Realm: Natural Language Processing, CUDA Programming
 
 * [CNN Quantization and Binarization w/. Sparsebits](https://docs.google.com/presentation/d/1pt1NvVpS13oXeYGAcI1VcSAhZLgxCaRYo4LlK2eWhZs/edit?usp=sharing)
