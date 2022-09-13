@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Currently Enrolled
+title: Roles
 nav_order: 2
 permalink: /docs/currently-enrolled
 parent: Home
