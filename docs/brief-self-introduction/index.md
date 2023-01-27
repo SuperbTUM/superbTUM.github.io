@@ -10,10 +10,12 @@ parent: Home
 
 ------
 
-Dear all. I am Mingzhe Hu, a master's student in the Electrical Engineering department at Columbia. My research interest is deep learning and computer vision, especially high-level computer vision tasks. The following are part of my achievements at Columbia:
-* Top-1 in [Climate change w/. machine learning workshop](https://www.modelshare.org/detail/model:1535)
-* Top-19 (~30%) in [ACM-ICPC GNY Regional](http://acmgnyr.org/year2021/scoreboard/full.html)
-* Top-1 in Megvii workshop in Quantization w/. [Sparsebit](https://github.com/megvii-research/Sparsebit)
+This is Ming from Columbia University. I will obtain my master's degree in Electrical Engineering with a focus on data driven analysis soon. Now I am still actively looking for software engineer roles with a focus on C++/Python/Applied machine learning. The following are some of the technical stack gained during my master's career:
+* Front-end: HTML/CSS/JavaScript(Google Map API), Django & Flask(Affiliated with Big Data Course)
+* Back-end: Modern C/C++/CUDA, Python, Java(From Huawei)
+* Algorithm: OpenAI Gym, Tensorflow/Keras/Scikit learn/PyTorch, TensorRT/ONNX
+* Cloud Platform: Amazon Web Service Lambda & Bucket, Google Cloud Platform & Big Query, Airflow, Git
+* Database: MySQL, SQLite, MongoDB
 
 Here I am in Manhattan, New York City! 
 
