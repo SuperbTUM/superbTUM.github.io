@@ -10,7 +10,7 @@ parent: Home
 
 ------
 
-This is Ming from Columbia University. I will obtain my master's degree in Electrical Engineering with a focus on data driven analysis soon. Now I am still actively looking for software engineer roles with a focus on C++/Python/Applied machine learning. The following are some of the technical stack gained during my master's career:
+This is Ming from Columbia University. I will obtain my master's degree in Electrical Engineering with a focus on data driven analysis soon. As a three-time teaching assistant at Columbia Engineering and a past research assistant at Kostic lab, now I am still actively looking for software engineer roles with a focus on C++/Python/Applied machine learning. The following are some of the technical stack gained during my master's career:
 * Front-end: HTML/CSS/JavaScript(Google Map API), Django & Flask(Affiliated with Big Data Course)
 * Back-end: Modern C/C++/CUDA, Python, Java(From Huawei)
 * Algorithm: OpenAI Gym, Tensorflow/Keras/Scikit learn/PyTorch, TensorRT/ONNX
