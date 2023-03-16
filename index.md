@@ -9,6 +9,8 @@ has_children: true
 ## Recent News
 
 ----------
+**Update Feb. 26th**: My team won best beginner hack at [2023 Columbia ADI Devfest Hackathon](https://devfest23.devpost.com/)!
+
 **Update Jan. 26th**: I was hired as an associate at Electrical Engineering department for assistance in course ELEN 6889 in large scale stream processing.
 
 **Update Sep. 12th**: I accepted part-time software internship offer from [AIModelShare Initiative](https://iserp.columbia.edu/center/ai-model-share-project) developed by ISERP, Columbia University and am expected to focus on deep learning library infrastructure.
