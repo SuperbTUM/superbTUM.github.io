@@ -34,6 +34,6 @@ As a recall, I would like to list my technical stacks below:
 Here I am in Manhattan, New York City! 
 
 <img src="../../images/campus_morningside.jpg" width="100%"/>
-<img src="../../images/PolyU_Logo.jpg", width="20%"/>
-<img src="../../images/tum-logo.png", width="20%"/>
-<img src="../../images/Columbia_Engineering_logo.png", width="20%"/>
+<img src="../../images/PolyU_Logo.jpg" width="20%"/>
+<img src="../../images/tum-logo.png" width="20%"/>
+<img src="../../images/Columbia_Engineering_logo.png" width="20%"/>
