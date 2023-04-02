@@ -10,13 +10,38 @@ parent: Home
 
 ------
 
-This is Ming from Columbia University. I will obtain my master's degree in Electrical Engineering with a focus on data driven analysis soon. As a three-time teaching assistant at Columbia Engineering and a past research assistant at Kostic lab, now I am still actively looking for software engineer roles with a focus on C++/Python/Applied machine learning. The following are some of the technical stack gained during my master's career:
+Hello from New York City! I obtained my master of science degree in Electrical Engineering at Graduate School of Engineering and Applied Science @ Columbia University! As a Chinese, I started my overseas study in 2019 at the international summer school at PolyU @ HK, where I took elementary courses on artificial intelligence, and got a chance to play with AzureML. I then became an exchange student at the department of computer science, TUM @ Germany, where I involved myself in both VLSI design and deep computer vision lab. The lab was kind of tough, with only four members that semester. I was assigned the task of object tracking across cameras.
+
+I successfully reproduced a paper in 2020, on Megvii's challenge, and I am glad that I earned a few stars on GitHub. Reproduction is not just simply copying code from somewhere else, it's also an experiment and assessment.
+
+During my master's study at Columbia, I joined the Kostic lab for a while with Prof. Zoran Kostic, on smart intersection topics, primarily focusing on unsupervised person and vehicle re-identification, as labeling is likely to be restricted by privacy. I expanded my experience further at NVIDIA Metropolis, during the following summer break, and my work was presented by Milind Naphade, CTO of Metropolis, at the GTC summit 2022.
+
+I personally open-sourced a real-time object re-identification repository on GitHub with a model zoo, including CNN bag of tricks, osnet and its variants, vision transformer, swin transformer (v1/v2), and some other modern loss functions like sparse softmax loss, poly loss, and also some neural network tricks such as batch-renormalization. I also mentioned the concept of real-time, as in the production environment, we care more about feasibility and robustness, so the repository will include onnxruntime transformation, static quantization, and other tricks to accelerate inference.
+
+I worked as a teaching assistant in the department of computer science and electrical engineering three times. Mentoring makes me a better communicator and writer.
+
+While AI is my area of interest for a while, I also dive into data science and full-stack development. I won a few top rankings in machine learning and data science challenges. In February, I won the best beginner hack @ Columbia Hack.
+
+I have experience with API design, microservices on cloud, web crawler and streaming processing.
+
+As a recall, I would like to list my technical stacks below:
 * Front-end: HTML/CSS/JavaScript(Google Map API), Django & Flask(Affiliated with Big Data Course)
-* Back-end: Modern C/C++/CUDA, Python, Java(From Huawei)
+* Back-end: Modern C/C++/CUDA/OpenCL, Python, Java(From Huawei), matlab and R
 * Algorithm: OpenAI Gym, Tensorflow/Keras/Scikit learn/PyTorch, TensorRT/ONNX
-* Cloud Platform: Amazon Web Service Lambda & Bucket, Google Cloud Platform & Big Query, Airflow, Git
-* Database: MySQL, SQLite, MongoDB
+* Cloud Platform: Amazon Web Service Lambda & Bucket, Google Cloud Platform & Big Query, Airflow, Git, AzureML
+* Database: MySQL, SQLite, MongoDB, PostGreSql
 
 Here I am in Manhattan, New York City! 
 
 <img src="../../images/campus_morningside.jpg" width="100%"/>
+<div class="images">
+    <div class="mid">
+    <img src="../../images/PolyU_Logo.jpg", width="20%"/>
+    </div>
+    <div class="mid">
+    <img src="../../images/tum-logo.png", width="20%"/>
+    </div>
+    <div class="mid">
+    <img src="../../images/Columbia_Engineering_logo.png", width="20%"/>
+    </div>
+</div>
