@@ -37,9 +37,9 @@ Check the meta info of the video: `ffmpeg -i video_name`. Critical info include 
 
 Check the frame info of the video: `ffprobe -i video_name -print_format json -loglevel fatal -show_streams -count_frames -select_streams v` and returns json-format results. Critical info include duration and number of frames.
 
-Uniformly extract frames from the video: `ffmpeg -i test.mp4 -vf fps=fps,showinfo -f image2 output_dir/%08d.jpg` where $fps=\frac{frames}{duration}$
+Uniformly extract frames from the video: `ffmpeg -i test.mp4 -vf fps=fps,showinfo -f image2 output_dir/%08d.jpg` where ![](https://latex.codecogs.com/svg.image?fps=\tfrac{frames}{duration})
 
 * Evaluation: MOTA
 
-MOTA is the abbreviation of multiple object tracking accuracy. $MOTA=1-\frac{\sum FN_t+FP_t+IDSW_t}{\sum GT_t}$
+MOTA is the abbreviation of multiple object tracking accuracy. ![](http://latex.codecogs.com/svg.image?MOTA=1-\tfrac{\sum{FN_t}+FP_t+IDSW_t}{\sum{GT_t}})
 

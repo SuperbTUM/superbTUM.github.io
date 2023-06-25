@@ -11,7 +11,7 @@ parent: Home
 ----------
 <img src="../../images/humingzhe.jpg" width="20%"/>
 
-Addr: 500W, 120th ST, Mudd Building, New York, NY
+Addr: 2750 E Cottonwood Pkwy STE 300, Cottonwood Heights, UT 84121
 
 E-mail: [E-mail](mailto:mingzhe.hu@columbia.edu?subject=[GitHub]%20Source%20Mingzhe%20Hu)
 

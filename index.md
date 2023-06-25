@@ -9,9 +9,16 @@ has_children: true
 ## Recent News
 
 ----------
-**Update Feb. 26th**: My team won best beginner hack at [2023 Columbia ADI Devfest Hackathon](https://devfest23.devpost.com/)!
+
+--- 2023 ---
+
+**Update Jun. 20th**: I joined SoFi as a full-time software engineer
+
+**Update Feb. 26th**: My team won the best beginner hack at [2023 Columbia ADI Devfest Hackathon](https://devfest23.devpost.com/)!
 
 **Update Jan. 26th**: I was hired as an associate at Electrical Engineering department for assistance in course ELEN 6889 in large scale stream processing.
+
+--- 2022 ---
 
 **Update Sep. 12th**: I accepted part-time software internship offer from [AIModelShare Initiative](https://iserp.columbia.edu/center/ai-model-share-project) developed by ISERP, Columbia University and am expected to focus on deep learning library infrastructure.
 
@@ -25,4 +32,4 @@ has_children: true
 
 **Update Jan. 28th**: I was elected as a teaching assistant of [COMS 4732](http://www.columbia.edu/cu/bulletin/uwb/subj/COMS/W4732-20221-001/) in Computer Vision II: Learning at Columbia University. I have regular office hour on Monday afternoon.
 
-**Update Jan 27th**: I accepted the offer as a research assistant at [Kostic Lab](https://www.cosmos-lab.org/experimentation/smart-city-intersections/) in spring semester, 2022, working with Prof. Zoran Kostic. I am working on multi-camera object re-identification problem. I have already created a testset in real-world scenario.
+**Update Jan 27th**: I accepted the offer as a research assistant at [Kostic Lab](https://www.cosmos-lab.org/experimentation/smart-city-intersections/) in spring semester, 2022, working with Prof. Zoran Kostic. I am working on multi-camera object re-identification problem. I created a testset around campus.
