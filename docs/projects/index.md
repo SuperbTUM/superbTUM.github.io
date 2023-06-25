@@ -7,11 +7,11 @@ parent: Home
 has_toc: false
 ---
 
-## Past Experience
+## Experience
 
 ----------
 
-My past experience can be divided into two major sections: Machine learning and Software Development.
+My experience can be divided into two major sections: Machine learning and Software Development.
 
 Back in 2019 when I was in Munich, I joined the deep computer vision lab to work with kalman filter variations. 
 I expanded my object re-identification and tracking experience starting in 2021 at Columbia. I first got started with VAE-(W)GAN to generate synthetic images and label smoothing with outliers and poly-loss(ICLR 2022). 
@@ -58,4 +58,4 @@ Projects cover a wide range of topics, where you can get access to the details t
 <u>Presentations</u>
 
 * [Strong Baseline for Atari Games w/. Reinforcement Learning](https://www.youtube.com/watch?v=27G7Js6jO8I)
-* [Mahattan Traffic Playback](https://www.youtube.com/shorts/ZIBe_ssFtm8)
+* [Manhattan Traffic Playback](https://www.youtube.com/shorts/ZIBe_ssFtm8)
