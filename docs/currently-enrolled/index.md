@@ -12,7 +12,7 @@ parent: Home
 **Current**
 
 * Software Engineer at <img src="../../images/SoFi_logo.svg.png" width="9%"/> SoFi Inc.
-* [Avalon](https://en.wikipedia.org/wiki/The_Resistance_(game)) enthusiast but alleviated by job-hunting... 
+* [Avalon](https://en.wikipedia.org/wiki/The_Resistance_(game)) <img src="../../images/avalon_logo.jpg" width="9%"/> enthusiast but alleviated by job-hunting... 
 
 **Past**
 * \[2019.8\] Completed summer international school at PolyU, Hong Kong, CN w/. scholarship

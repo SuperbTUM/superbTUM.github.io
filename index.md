@@ -12,7 +12,7 @@ has_children: true
 
 --- 2023 ---
 
-**Update Jun. 20th**: I joined SoFi as a full-time software engineer
+**Update Jun. 20th**: I joined SoFi as a full-time software engineer.
 
 **Update Feb. 26th**: My team won the best beginner hack at [2023 Columbia ADI Devfest Hackathon](https://devfest23.devpost.com/)!
 

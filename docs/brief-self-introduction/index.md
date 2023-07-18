@@ -28,7 +28,7 @@ I will publish a self-research paper on mobile person re-identification solution
 I worked as a teaching assistant in the department of computer science and electrical engineering for three times. 
 Mentoring makes me a better communicator and writer.
 
-While AI is my area of interest for a while, I also dive into data science and full-stack development. 
+While AI is my area of interest all the time, I also dive into data science and full-stack development. 
 I won a few top rankings in machine learning and data science challenges. 
 In February, I won the best beginner hack @ Columbia Hack.
 

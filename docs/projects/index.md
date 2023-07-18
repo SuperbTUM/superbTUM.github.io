@@ -14,7 +14,8 @@ has_toc: false
 My experience can be divided into two major sections: Machine learning and Software Development.
 
 Back in 2019 when I was in Munich, I joined the deep computer vision lab to work with kalman filter variations. 
-I expanded my object re-identification and tracking experience starting in 2021 at Columbia. I first got started with VAE-(W)GAN to generate synthetic images and label smoothing with outliers and poly-loss(ICLR 2022). 
+I expanded my object re-identification and tracking experience starting in 2021 at Columbia. 
+I first got started with VAE-(W)GAN to generate synthetic images and label smoothing with outliers(CVPR 2017) and poly-loss(ICLR 2022). 
 In early 2022, I joined Kostic lab for a while to investigate BoTs in self-supervised re-identifications with model zoos, both in pedestrian and vehicles, and at the same time, to build a machine learning pipeline with data auto-fetch by tuned YoloV4.
 I applied my experience in NVIDIA metropolis team in 2022 summer, and integrated the algorithm into a streaming data pipeline.
 

@@ -25,7 +25,7 @@ parent: Home
   Senior year as an exchange student.
 
   * Seminar in Deep Computer Graphics: Literature Overview of [Deep View Synthesis From Sparse Photometric Images](https://cseweb.ucsd.edu/~ravir/zexiangview.pdf)
-  * Deep Compter Vision Lab: Optimization of [DeepSort](https://arxiv.org/pdf/1703.07402.pdf) Tracker
+  * Deep Computer Vision Lab: Optimization of [DeepSort](https://arxiv.org/pdf/1703.07402.pdf) Tracker
   * VLSI Design: Design of a MP3 player with Vivado and ModelSim
 
 ----------
@@ -45,4 +45,4 @@ parent: Home
 
   22 Fall
   * \[COMS 4995\] Design with C++, lectured by Prof. Bjarne Stroustrup!
-  * Pending
+  * \[COMS 6998\] High Performance Machine Learning
