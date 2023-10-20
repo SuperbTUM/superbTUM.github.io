@@ -11,6 +11,13 @@ has_toc: false
 
 ----------
 
+**Keywords**
+
+* Computer vision and big data
+* C++ modern programming
+* Full-stack application
+
+
 My experience can be divided into two major sections: Machine learning and Software Development.
 
 Back in 2019 when I was in Munich, I joined the deep computer vision lab to work with kalman filter variations. 

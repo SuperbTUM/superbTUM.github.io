@@ -10,6 +10,8 @@ parent: Home
 
 ------
 
+<img src="../../images/timeline.png" width="100%"/>
+
 <img src="../../images/location_icon.jpg" width="4%"/> Hello from New York City & Salt Lake City!
 
 I obtained my master of science degree in Electrical Engineering at Graduate School of Engineering and Applied Science @ Columbia University! 
