@@ -18,7 +18,9 @@ has_toc: false
 * Full-stack application
 
 
-My experience can be divided into two major sections: Machine learning and Software Development.
+Topic: object re-identification and tracking
+
+<img src="../../images/Deep-learning-based-image-re-identification-model.jpg" width="90%"/>
 
 Back in 2019 when I was in Munich, I joined the deep computer vision lab to work with kalman filter variations. 
 I expanded my object re-identification and tracking experience starting in 2021 at Columbia. 
@@ -26,7 +28,11 @@ I first got started with VAE-(W)GAN to generate synthetic images and label smoot
 In early 2022, I joined Kostic lab for a while to investigate BoTs in self-supervised re-identifications with model zoos, both in pedestrian and vehicles, and at the same time, to build a machine learning pipeline with data auto-fetch by tuned YoloV4.
 I applied my experience in NVIDIA metropolis team in 2022 summer, and integrated the algorithm into a streaming data pipeline.
 
-I also have experience in high-performance software development. 
+Topic: High-performance software development
+
+<img src="../../images/memory-hierarchy.png" width="90%"/>
+
+I have experience in high-performance software development. 
 I started with CUDA programming to accelerate KMeans with a single GPU. 
 I got in touch with model quantization at Columbia and also participated in Megvii's mini-workshop and gained first place. In late 2022, I developed faster multi-GPU training on both CNN and transformer models. 
 I also tried to adapt to C++20's new features, multi-threading, and concurrency in my recent full-stack development based on the course taught by Prof. Stroustrup. 
