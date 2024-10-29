@@ -10,6 +10,10 @@ has_children: true
 
 ----------
 
+--- 2024 ---
+
+**Update Oct. 22nd**: My paper was presented at ISVC 24' (Lake Tahoe, NV).
+
 --- 2023 ---
 
 **Update Jun. 20th**: I joined SoFi as a full-time software engineer.

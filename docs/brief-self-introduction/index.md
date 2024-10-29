@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Self Intro
+title: About Me
 nav_order: 1
 permalink: /docs/brief-self-introduction/
 parent: Home
 ---
 
-## A Few Words About Me
+## About Me
 
 ------
 
@@ -41,13 +41,13 @@ I have experience with API design, microservices on cloud, web crawler and strea
 
 As a recall, I would like to list my technical stacks below:
 
-| Front-end                           | Back-end                 | Algorithm                        | Cloud Platform                     | Database   |
-|-------------------------------------|--------------------------|----------------------------------|------------------------------------|------------|
-| HTML/CSS/JavaScript(Google Map API) | Modern C/C++/CUDA/OpenCL | OpenAI Gym                       | Amazon Web Service Lambda & Bucket | MySQL      |
-| Django                              | Python Flask             | Tensorflow/Keras/Sklearn/PyTorch | Google Cloud Platform & Big Query  | SQLite     |
-|                                     | Java(From Huawei)        | TensorRT/ONNX                    | Airflow                            | MongoDB    |
-|                                     | matlab                   |                                  | Git                                | PostGreSql |
-|                                     | R                        |                                  | AzureML                            |            |
+| Front-end                           | Back-end                 | Algorithm                        | Cloud Platform                     | Database |
+|-------------------------------------|--------------------------|----------------------------------|------------------------------------|----------|
+| HTML/CSS/JavaScript(Google Map API) | Modern C/C++/CUDA/OpenCL | OpenAI Gym                       | Amazon Web Service Lambda & Bucket | MySQL    |
+| Django                              | Python Flask             | Tensorflow/Keras/Sklearn/PyTorch | Google Cloud Platform & Big Query  | SQLite   |
+| React.js                            | Java, Kotlin             | TensorRT/ONNX                    | MWAA                               | MongoDB  |
+|                                     | matlab                   |                                  | Git                                | Postgres |
+|                                     | R                        |                                  | AzureML                            |          |
 
 
 Here I am in Manhattan, New York City! 

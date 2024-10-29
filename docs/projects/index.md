@@ -42,7 +42,7 @@ Projects cover a wide range of topics, where you can get access to the details t
 **Projects**
 ------
 
-* Strong Reinforcement Baseline on Atari Skiing w/. Immitation Learning
+* Strong Reinforcement Baseline on Atari Skiing w/. Imitation Learning
 * Real-time Self-supervised Re-identification Algorithm and BoTs
 * Real-time Single Camera Re-identification w/. Deep Convolutional GAN and BoT
 * New York Traffic Heatmap w/. Google API, Tomtom Traffic and Spark Streaming
