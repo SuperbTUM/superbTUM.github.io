@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: no-sidebar
 title: Mingzhe Hu - Personal Profile
-nav_order: 1
 permalink: /
+nav_exclude: true
+has_children: false
 ---
 
 # Mingzhe Hu

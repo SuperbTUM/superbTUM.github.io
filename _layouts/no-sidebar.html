@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | relative_url }}">
+  <title>{{ page.title | default: site.title }}</title>
+
+  <style>
+    .main {
+      margin-left: 0 !important;
+      max-width: none !important;
+    }
+
+    .site-nav, .navigation, .side-bar {
+      display: none !important;
+    }
+
+    .main-content {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    .site-header {
+      display: none !important;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="page-wrap">
+    <div class="main" id="main" aria-label="Main content">
+      <div class="main-content">
+        <div class="page-header js-page-header">
+          <div class="search">
+            <!-- Search disabled -->
+          </div>
+        </div>
+
+        <div class="main-content-wrap js-main-content" tabindex="0">
+          <div class="page">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

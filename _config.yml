@@ -34,19 +34,7 @@ author:
   bio: "Columbia x Nvidia" # Note: Markdown is allowed
   location: "New York City"
 
-docs:
-  - title: Profile
-    children:
-      - title: "About Me"
-        url: /#about-me
-      - title: "Education & Courses"
-        url: /#education--courses
-      - title: "Experience & Projects"
-        url: /#professional-experience--projects
-      - title: "Recent News"
-        url: /#recent-news
-      - title: "Contact"
-        url: /#contact-information
+# Navigation disabled for single-page layout
 
 
 # Regression tests
@@ -60,7 +48,7 @@ docs:
 
 # Enable or disable the site search
 # Supports true (default) or false
-search_enabled: true
+search_enabled: false
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
