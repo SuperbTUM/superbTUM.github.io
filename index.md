@@ -199,8 +199,8 @@ Currently working as a full-time software engineer at SoFi, where I apply my exp
 
 ---
 
-<div style="text-align: center; margin: 40px 0;">
-<img src="images/PolyU_Logo.jpg" width="15%" style="margin: 0 10px;"/>
-<img src="images/tum-logo.png" width="15%" style="margin: 0 10px;"/>
-<img src="images/Columbia_Engineering_logo.png" width="15%" style="margin: 0 10px;"/>
+<div class="university-logos">
+<img src="images/PolyU_Logo.jpg" alt="PolyU"/>
+<img src="images/tum-logo.png" alt="TUM"/>
+<img src="images/Columbia_Engineering_logo.png" alt="Columbia Engineering"/>
 </div>
