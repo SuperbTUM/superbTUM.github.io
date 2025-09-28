@@ -1,39 +1,205 @@
 ---
 layout: default
-title: Home
+title: Mingzhe Hu - Personal Profile
 nav_order: 1
 permalink: /
-has_children: true
+---
+
+# Mingzhe Hu
+## Software Engineer at SoFi | AI/ML Experience at NVIDIA & Columbia
+
+<img src="images/humingzhe.jpg" width="120px" style="border-radius: 8px; float: right; margin: 0 0 20px 20px;"/>
+
+---
+
+## About Me
+
+<img src="images/timeline.png" width="100%" style="margin: 20px 0;"/>
+
+<img src="images/location_icon.jpg" width="4%"/> Hello from New York City & Salt Lake City!
+
+I started my overseas study in 2019 at the international summer school at PolyU @ HK, where I took elementary courses on artificial intelligence, and got a chance to play with AzureML. After that, I became an exchange student in my senior year at the department of computer science, TUM @ Germany, where I involved myself in both VLSI design and deep computer vision lab.
+
+During my master's study at Columbia, I joined the Kostic lab for a while with Prof. Zoran Kostic, on smart intersection topics, primarily focusing on unsupervised person and vehicle re-identification. I expanded my experience further at NVIDIA Metropolis, during the following summer break, and my work was presented by Milind Naphade, CTO of Metropolis, at the GTC summit 2022.
+
+Currently working as a full-time software engineer at SoFi, where I apply my expertise in AI/ML and full-stack development to build scalable financial technology solutions.
+
+### Recent News
+
+**2024**
+- **Oct. 22nd**: Paper presented at ISVC 24' (Lake Tahoe, NV)
+
+**2023**
+- **Jun. 20th**: Joined SoFi as a full-time software engineer
+- **Feb. 26th**: Won best beginner hack at Columbia ADI Devfest Hackathon
+
+**2022**
+- **Aug. 29th**: Completed NVIDIA internship - BoT for MTMC tracking improved IDF1 from 40% to 81%+
+- **Apr. 4th**: Accepted software summer internship at NVIDIA Metropolis
+
+### Technical Skills
+
+| Programming Languages | Frameworks & Libraries | Data Engineering | Cloud & DevOps | AI/ML & Research |
+|----------------------|------------------------|------------------|----------------|------------------|
+| Python, Java, Kotlin | React.js, Django, Flask | Kafka, Airflow, Snowflake | AWS, Google Cloud Platform | PyTorch, TensorFlow, Keras |
+| C/C++, JavaScript | HTML/CSS | MySQL, PostgreSQL, MongoDB | Git, AzureML, MWAA | TensorRT, ONNX, OpenAI Gym |
+| CUDA, OpenCL | | SQLite | | Computer Vision, NLP |
+| Matlab, R | | | | |
+
+---
+
+## Professional Experience & Projects
+
+### Current Position
+**Software Engineer** - SoFi (June 2023 - Present)
+- Full-time software engineer developing scalable financial technology solutions
+
+### Previous Experience
+
+**Research & Development:**
+- **NVIDIA Metropolis** (Summer 2022) - Multi-target multi-camera people tracking, improving IDF1 from 40% to 81%+
+- **Columbia Kostic Lab** (2022) - Smart intersection research focusing on unsupervised person and vehicle re-identification
+- **Teaching Assistant** - Columbia University (3 times) - Computer Vision and Deep Learning courses
+
+### Key Projects
+
+**Computer Vision & AI:**
+- Real-time Self-supervised Re-identification Algorithm and BoTs
+- Real-time Single Camera Re-identification with Deep Convolutional GAN
+- Strong Reinforcement Baseline on Atari Skiing with Imitation Learning
+- Transformer Full Quantization for Text Classification
+
+**Full-Stack Development:**
+- New York Traffic Heatmap with Google API, Tomtom Traffic and Spark Streaming
+- Full Stack Application Demo with Modern C++ and SQLite
+- NBA Award Prediction system with web scraping and big data analytics
+
+### Achievements
+- **Best Beginner Hack** - 2023 Columbia ADI Devfest Hackathon
+- **1st Place** - Megvii CNN Quantization Workshop
+- Published technical blog on object detection with transformers on Medium
+- Work presented at GTC Summit 2022 by NVIDIA CTO
+
+### Open Source & Presentations
+- [Strong Baseline for Atari Games with Reinforcement Learning](https://www.youtube.com/watch?v=27G7Js6jO8I)
+- [Manhattan Traffic Playback](https://www.youtube.com/shorts/ZIBe_ssFtm8)
+- GitHub: [SuperbTUM](https://github.com/SuperbTUM)
+
+### Internal Sharing & Speaking
+- **Alumni Panel Speaker** - Columbia CS Department (Nov 2024)
+- **Internal Tech Talks** - Topics include:
+  - Kafka Snowflake consumer connector configurations introduction
+  - Java to Kotlin migration
+  - Modern Airflow best practices
+
+---
+
+## Publications
+
+- **Hu, M.** "VLPSR: Enhancing Zero-Shot Object ReID with Vision-Language Model". In: *International Symposium on Visual Computing (ISVC)*, Lecture Notes in Computer Science, vol 15150. Springer, Cham. [https://doi.org/10.1007/978-3-031-77389-1_5](https://link.springer.com/chapter/10.1007/978-3-031-77389-1_5)
+
+---
+
+## Education & Courses
+
+### Graduate Level - Columbia University
+**Master of Science in Electrical Engineering**
+
+**Recent Coursework:**
+- **ELEN 4720** - Machine Learning in Signal, Information and Data
+- **COMS 4995** - Neural Network and Deep Learning
+- **EECS 4750** - Heterogeneous Computing with PyCUDA and PyOpenCL
+- **EECS 6893** - TPC in Big Data Analysis
+- **ELEN 6889** - Large Scale Stream Processing
+- **EECS 6892** - Reinforcement Learning in Information System
+- **COMS 6998** - Practical Deep Learning System Performance
+- **COMS 4995** - Design with C++ (lectured by Prof. Bjarne Stroustrup!)
+
+### Graduate Level - Technical University of Munich (TUM)
+**Exchange Student - Computer Science**
+- Seminar in Deep Computer Graphics
+- Deep Computer Vision Lab: Optimization of DeepSort Tracker
+- VLSI Design: Design of a MP3 player with Vivado and ModelSim
+
+### Undergraduate Level - Southeast University (SEU)
+**Core Computer Science Courses:**
+- Computer Network & Architecture
+- Database Fundamentals with SQL
+- Computer Vision with Halcon
+- Signal Processing with Matlab
+
+---
+
+## Professional Experience & Projects
+
+### Current Position
+**Software Engineer** - SoFi (June 2023 - Present)
+- Full-time software engineer developing scalable financial technology solutions
+
+### Previous Experience
+
+**Research & Development:**
+- **NVIDIA Metropolis** (Summer 2022) - Multi-target multi-camera people tracking, improving IDF1 from 40% to 81%+
+- **Columbia Kostic Lab** (2022) - Smart intersection research focusing on unsupervised person and vehicle re-identification
+- **Teaching Assistant** - Columbia University (3 times) - Computer Vision and Deep Learning courses
+
+### Key Projects
+
+**Computer Vision & AI:**
+- Real-time Self-supervised Re-identification Algorithm and BoTs
+- Real-time Single Camera Re-identification with Deep Convolutional GAN
+- Strong Reinforcement Baseline on Atari Skiing with Imitation Learning
+- Transformer Full Quantization for Text Classification
+
+**Full-Stack Development:**
+- New York Traffic Heatmap with Google API, Tomtom Traffic and Spark Streaming
+- Full Stack Application Demo with Modern C++ and SQLite
+- NBA Award Prediction system with web scraping and big data analytics
+
+### Achievements
+- **Best Beginner Hack** - 2023 Columbia ADI Devfest Hackathon
+- **1st Place** - Megvii CNN Quantization Workshop
+- Published technical blog on object detection with transformers on Medium
+- Work presented at GTC Summit 2022 by NVIDIA CTO
+
+### Open Source & Presentations
+- [Strong Baseline for Atari Games with Reinforcement Learning](https://www.youtube.com/watch?v=27G7Js6jO8I)
+- [Manhattan Traffic Playback](https://www.youtube.com/shorts/ZIBe_ssFtm8)
+- GitHub: [SuperbTUM](https://github.com/SuperbTUM)
+
 ---
 
 ## Recent News
 
-----------
+**2024**
+- **Oct. 22nd**: Paper presented at ISVC 24' (Lake Tahoe, NV)
 
---- 2024 ---
+**2023**
+- **Jun. 20th**: Joined SoFi as a full-time software engineer
+- **Feb. 26th**: Won best beginner hack at Columbia ADI Devfest Hackathon
 
-**Update Oct. 22nd**: My paper was presented at ISVC 24' (Lake Tahoe, NV).
+**2022**
+- **Aug. 29th**: Completed NVIDIA internship - BoT for MTMC tracking improved IDF1 from 40% to 81%+
+- **Apr. 4th**: Accepted software summer internship at NVIDIA Metropolis
 
---- 2023 ---
+---
 
-**Update Jun. 20th**: I joined SoFi as a full-time software engineer.
+## Contact Information
 
-**Update Feb. 26th**: My team won the best beginner hack at [2023 Columbia ADI Devfest Hackathon](https://devfest23.devpost.com/)!
+**Location:** Cottonwood Heights, UT & New York City, NY
 
-**Update Jan. 26th**: I was hired as an associate at Electrical Engineering department for assistance in course ELEN 6889 in large scale stream processing.
+**Email:** [mingzhe.hu@columbia.edu](mailto:mingzhe.hu@columbia.edu?subject=[GitHub]%20Source%20Mingzhe%20Hu)
 
---- 2022 ---
+**LinkedIn:** [linkedin.com/in/humingzhe](https://www.linkedin.com/in/humingzhe)
 
-**Update Sep. 12th**: I accepted part-time software internship offer from [AIModelShare Initiative](https://iserp.columbia.edu/center/ai-model-share-project) developed by ISERP, Columbia University and am expected to focus on deep learning library infrastructure.
+**GitHub:** [github.com/SuperbTUM](https://github.com/SuperbTUM)
 
-**Update Sep. 6th**: I was elected as a teaching assistant of [COMS 4995](https://www.deeplearningforcomputervision.com/) in Deep Learning for Computer Vision at Columbia University. 
+**Resume:** [View PDF Resume](resume/Resume_Engineering_II.pdf)
 
-**Update Aug. 29th**: I had completed my internship exit talk and my bag of tricks (BoT) for multi-target multi-camera (MTMC) people warehouse tracking can improve IDF1 from 40% to 81%+!
+---
 
-**Update Apr. 4th**: I accepted software summer internship offer from [Metropolis, NVIDIA](https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/) and am expected to start in late May!
-
-**Update Mar. 31st**: I published a technical blog of object detection with transformer on [Medium](https://medium.com/@mh4116_43123/a-milestone-in-object-detection-with-transformers-f2fd8a30cc32).
-
-**Update Jan. 28th**: I was elected as a teaching assistant of [COMS 4732](http://www.columbia.edu/cu/bulletin/uwb/subj/COMS/W4732-20221-001/) in Computer Vision II: Learning at Columbia University. I have regular office hour on Monday afternoon.
-
-**Update Jan 27th**: I accepted the offer as a research assistant at [Kostic Lab](https://www.cosmos-lab.org/experimentation/smart-city-intersections/) in spring semester, 2022, working with Prof. Zoran Kostic. I am working on multi-camera object re-identification problem. I created a testset around campus.
+<div style="text-align: center; margin: 40px 0;">
+<img src="images/PolyU_Logo.jpg" width="15%" style="margin: 0 10px;"/>
+<img src="images/tum-logo.png" width="15%" style="margin: 0 10px;"/>
+<img src="images/Columbia_Engineering_logo.png" width="15%" style="margin: 0 10px;"/>
+</div>

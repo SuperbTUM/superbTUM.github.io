@@ -35,17 +35,17 @@ author:
   location: "New York City"
 
 docs:
-  - title: Home
+  - title: Profile
     children:
-      - title: "Brief Self Intro"
-        url: /#brief-self-introduction
-      - title: "Roles"
-        url: /#currently-enrolled
-      - title: "Past Experience"
-        url: /#projects
-      - title: "Courses"
-        url: /#courses
-      - title: "Contact Info"
+      - title: "About Me"
+        url: /#about-me
+      - title: "Education & Courses"
+        url: /#education--courses
+      - title: "Experience & Projects"
+        url: /#professional-experience--projects
+      - title: "Recent News"
+        url: /#recent-news
+      - title: "Contact"
         url: /#contact-information
 
 
