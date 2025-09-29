@@ -58,12 +58,47 @@ has_children: false
 <div class="content-section">
   <h2>Technical Skills</h2>
 
-| Programming Languages | Frameworks & Libraries | Data Engineering | Cloud & DevOps | AI/ML & Research |
-|----------------------|------------------------|------------------|----------------|------------------|
-| Python, Java, Kotlin | React.js, Django, Flask | Kafka, Airflow, Snowflake | AWS, Google Cloud Platform | PyTorch, TensorFlow, Keras |
-| C/C++, JavaScript | HTML/CSS | MySQL, PostgreSQL, MongoDB | Git, AzureML, MWAA | TensorRT, ONNX, OpenAI Gym |
-| CUDA, OpenCL | | SQLite | | Computer Vision, NLP |
-| Matlab, R | | | | |
+  <table>
+    <thead>
+      <tr>
+        <th>Programming Languages</th>
+        <th>Frameworks & Libraries</th>
+        <th>Data Engineering</th>
+        <th>Cloud & DevOps</th>
+        <th>AI/ML & Research</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Python, Java, Kotlin</td>
+        <td>React.js, Django, Flask</td>
+        <td>Kafka, Airflow, Snowflake</td>
+        <td>AWS, Google Cloud Platform</td>
+        <td>PyTorch, TensorFlow, Keras</td>
+      </tr>
+      <tr>
+        <td>C/C++, JavaScript</td>
+        <td>HTML/CSS</td>
+        <td>MySQL, PostgreSQL, MongoDB</td>
+        <td>Git, AzureML, MWAA</td>
+        <td>TensorRT, ONNX, OpenAI Gym</td>
+      </tr>
+      <tr>
+        <td>CUDA, OpenCL</td>
+        <td></td>
+        <td>SQLite</td>
+        <td></td>
+        <td>Computer Vision, NLP</td>
+      </tr>
+      <tr>
+        <td>Matlab, R</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <div class="content-section">
