@@ -56,15 +56,14 @@ has_children: false
 </div>
 
 <div class="content-section">
-
   <h2>Technical Skills</h2>
 
-  | Programming Languages | Frameworks & Libraries | Data Engineering | Cloud & DevOps | AI/ML & Research |
-  |----------------------|------------------------|------------------|----------------|------------------|
-  | Python, Java, Kotlin | React.js, Django, Flask | Kafka, Airflow, Snowflake | AWS, Google Cloud Platform | PyTorch, TensorFlow, Keras |
-  | C/C++, JavaScript | HTML/CSS | MySQL, PostgreSQL, MongoDB | Git, AzureML, MWAA | TensorRT, ONNX, OpenAI Gym |
-  | CUDA, OpenCL | | SQLite | | Computer Vision, NLP |
-  | Matlab, R | | | | |
+| Programming Languages | Frameworks & Libraries | Data Engineering | Cloud & DevOps | AI/ML & Research |
+|----------------------|------------------------|------------------|----------------|------------------|
+| Python, Java, Kotlin | React.js, Django, Flask | Kafka, Airflow, Snowflake | AWS, Google Cloud Platform | PyTorch, TensorFlow, Keras |
+| C/C++, JavaScript | HTML/CSS | MySQL, PostgreSQL, MongoDB | Git, AzureML, MWAA | TensorRT, ONNX, OpenAI Gym |
+| CUDA, OpenCL | | SQLite | | Computer Vision, NLP |
+| Matlab, R | | | | |
 </div>
 
 <div class="content-section">
