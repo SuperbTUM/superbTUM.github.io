@@ -33,7 +33,6 @@ has_children: false
   <p>During my master's study at Columbia, I joined the Kostic lab for a while with Prof. Zoran Kostic, on smart intersection topics, primarily focusing on unsupervised person and vehicle re-identification. I expanded my experience further at NVIDIA Metropolis, during the following summer break, and my work was presented by Milind Naphade, CTO of Metropolis, at the GTC summit 2022.</p>
 
   <p><strong>Currently working as a full-time software engineer at SoFi</strong>, where I apply my expertise in AI/ML and full-stack development to build scalable financial technology solutions that help people achieve financial independence.</p>
-</div>
 
   <h3>Recent News</h3>
 
